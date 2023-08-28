@@ -12,6 +12,9 @@
  * @var object $um_content_query
  * @var array  $args
  */
+
+// Source https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup
+
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 // This file should primarily consist of HTML with a little bit of PHP.
